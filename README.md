@@ -18,7 +18,8 @@ The objective of this analysis was to identify:
 Whether lead quality improved or declined over time
 The key drivers influencing lead quality
 Opportunities to improve lead quality and increase CPL profitability
-📊 KPIs Used
+
+#KPIs Used
 Total Leads = Count of VendorLeadIDs
 Good Leads = Leads with statuses:
 Closed
@@ -26,13 +27,15 @@ EP Sent
 EP Received
 EP Confirmed
 Lead Quality % = Good Leads / Total Leads
-🛠 Tools Used
+
+#Tools Used
 Excel
 Power BI
 Data Cleaning
 KPI Analysis
 Business & Segment Analysis
-🔍 Analysis Performed
+
+#Analysis Performed
 1. Lead Quality Trend Analysis
 Analyzed lead quality trends over a 6-month period
 Observed fluctuations rather than a consistent upward/downward trend
@@ -50,11 +53,13 @@ Some partners delivered higher-quality traffic than others
 Debt Level Analysis
 Mid-to-high debt segments performed better
 Extremely high debt segments underperformed
-💡 Key Business Recommendations
+
+#Key Business Recommendations
 Scale high-performing ad creatives and traffic sources
 Prioritize leads with stronger verification scores
 Reduce dependency on low-quality traffic channels
 Focus more on profitable debt-level segments
-📈 Outcome
+
+#Outcome
 
 The analysis provided actionable insights to improve overall lead quality, optimize acquisition strategy, and support higher CPL negotiations with the advertiser.
